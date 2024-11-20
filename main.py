@@ -1,24 +1,10 @@
+def main():
+    aaaiduhiuhduaduiaduidmwdiodnwd
 
-print('Je')
-print('Je')
-print('Je')
 
-print('Je')
-print('Je')
-print('Je')
+def test():
 
-print('Je')
-print('Je')
-print('Je')
 
-print('Je')
-print('Je')
-print('Je')
+axa
+def t():
 
-print('Je')
-print('Je')
-print('Je')
-
-print('Je')
-print('Je')
-print('Je')
